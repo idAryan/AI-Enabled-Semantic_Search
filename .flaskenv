@@ -1,0 +1,2 @@
+FLASK_APP=semantic_search.py
+FLASK_DEBUG=1
