@@ -7,6 +7,7 @@ In **utils/semantic_search.py** I wrote the main logic of search which I will ex
 data folder have NCO-2015 data which I imported it in semantic_search.py  
 And now my application is ready!!  
 Be sure to install flask,dotenv,SentenceTransformer   
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/6c00e8df-38a2-48a0-8a70-44102e8e192d" />
 
 # Semantic Search  
 I have selected **all-MiniLM-L6-v2** model  
